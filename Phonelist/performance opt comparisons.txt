@@ -1,0 +1,6 @@
+CPU time largest test case (40x10000):
+
+shell sort: 34s
+shell sort, string find instead of compare: 36s
+shell sort, no pre compare: 42s
+insertion sort: 59s
